@@ -44,3 +44,4 @@ For Unbound: \
    - 5443:5443 tcp & udp
 7. **For unbound**
    - 5053 tcp & udp
+   - 477 tcp & udp
